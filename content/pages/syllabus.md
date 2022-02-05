@@ -44,31 +44,337 @@ If you have questions about how to cite sources, see me. The readings for the co
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | Introduction to Basic Issues | &nbsp; |
-| 3 | "Irrational" Beliefs in Disease Causation and Treatment | &nbsp; |
-| 4 | "Irrational" Beliefs, Continued | &nbsp; |
-| 5 | Symbolic Healing and Harming | &nbsp; |
-| 6 | The Cultural Construction of Disease | &nbsp; |
-| 7 | Theoretical Frames | &nbsp; |
-| 8 | Meaning, Medicine, and Illness | Topics for 1st paper discussed in class |
-| 9 | The Institution(s) of Medicine I | Watch: _Back from Madness_ |
-| 10 | The Institution(s) of Medicine II | 1st paper due |
-| 11 | The Institution(s) of Medicine III | &nbsp; |
-| 12 | The Institution(s) of Medicine IV | 1st paper handed back  {{< br >}}Watch: _Deadly Deception_ |
-| 13 | The Institution(s) of Medicine V | Topics for second paper discussed in class |
-| 14 | The Institution(s) of Medicine VI | Revised 1st paper due  {{< br >}}Watch: _The Search for Satan_ |
-| 15 | The Institution(s) of Medicine VII | &nbsp; |
-| 16 | Health, Disease and Healing in the Larger Social Context I | 2nd paper due  {{< br >}}Watch: _Simple Courage_ |
-| 17 | Health, Disease and Healing in the Larger Social Context II | &nbsp; |
-| 18 | Health, Disease and Healing in the Larger Social Context III | 2nd paper handed back |
-| 19 | Health, Disease and Healing in the Larger Social Context IV | Topics for 3rd paper discussed in class |
-| 20 | Health, Disease and Healing in the Larger Social Context V | Revised 2nd paper due  {{< br >}}Optional: 3rd paper draft due |
-| 21 | Stigma, Responsibility, and Blame | &nbsp; |
-| 22 | The Challenge of Chronic Illness | Optional: 3rd paper draft handed back |
-| 23 | New Reproductive Technologies | Watch: _The Lynchburg Story_ |
-| 24 | New Medical Technologies | 3rd paper due |
-| 25 | Student Presentations | Reports on Third Paper in class |
-| 26 | Student Presentations (cont.) | Reports on Third Paper in class (cont.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Basic Issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+"Irrational" Beliefs in Disease Causation and Treatment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+"Irrational" Beliefs, Continued
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Symbolic Healing and Harming
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Cultural Construction of Disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Theoretical Frames
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Meaning, Medicine, and Illness
+{{< tdclose >}}
+{{< tdopen >}}
+Topics for 1st paper discussed in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine I
+{{< tdclose >}}
+{{< tdopen >}}
+Watch: _Back from Madness_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine II
+{{< tdclose >}}
+{{< tdopen >}}
+1st paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine IV
+{{< tdclose >}}
+{{< tdopen >}}
+1st paper handed back  
+Watch: _Deadly Deception_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine V
+{{< tdclose >}}
+{{< tdopen >}}
+Topics for second paper discussed in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine VI
+{{< tdclose >}}
+{{< tdopen >}}
+Revised 1st paper due  
+Watch: _The Search for Satan_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Institution(s) of Medicine VII
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Health, Disease and Healing in the Larger Social Context I
+{{< tdclose >}}
+{{< tdopen >}}
+2nd paper due  
+Watch: _Simple Courage_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Health, Disease and Healing in the Larger Social Context II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Health, Disease and Healing in the Larger Social Context III
+{{< tdclose >}}
+{{< tdopen >}}
+2nd paper handed back
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Health, Disease and Healing in the Larger Social Context IV
+{{< tdclose >}}
+{{< tdopen >}}
+Topics for 3rd paper discussed in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Health, Disease and Healing in the Larger Social Context V
+{{< tdclose >}}
+{{< tdopen >}}
+Revised 2nd paper due  
+Optional: 3rd paper draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Stigma, Responsibility, and Blame
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Challenge of Chronic Illness
+{{< tdclose >}}
+{{< tdopen >}}
+Optional: 3rd paper draft handed back
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+New Reproductive Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+Watch: _The Lynchburg Story_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+New Medical Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+3rd paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Reports on Third Paper in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Reports on Third Paper in class (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
